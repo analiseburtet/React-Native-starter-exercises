@@ -1,0 +1,17 @@
+{
+  "name": "churras",
+  "displayName": "churras",
+  "expo": {
+    "name": "churras",
+    "slug": "churras",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
